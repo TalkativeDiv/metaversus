@@ -22,15 +22,13 @@ const About = () => (
         The <span className="font-extrabold text-white">Metaverse</span> is a
         new thing in the future, where you can enjoy the virtual world by
         feeling like it&apos;s really real, you can feel what you feel in this
-        metaverse world, because this is really the
+        metaverse world, because this is really the &nbsp;
         <span className="font-extrabold text-white">
           madness of the metaverse
         </span>{' '}
         of today, using only{' '}
         <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the metaverse world you want Let&apos;s{' '}
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+        easily explore the metaverse world you want.
       </motion.p>
       <motion.img
         variants={fadeIn('up', 'tween', 0.3, 1)}
